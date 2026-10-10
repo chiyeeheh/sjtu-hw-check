@@ -1,0 +1,8 @@
+# Node 依赖（首次运行 redpen.py 会自动 npm install；package-lock.json 要提交）
+scripts/node_modules/
+
+# 中间产物
+_redpen/
+_bands/
+__pycache__/
+*.pyc
